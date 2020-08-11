@@ -1,0 +1,77 @@
+﻿Feature,Description
+10_2_Curve,10/2 Curve
+10_5_Curve,10/5 Curve
+10_30_Curve,10/30 Curve
+1YR_SWAP,Overnight Indexed Swap (OIS) is a fixed/float interest rate swap 
+2YR_UST,2-Year Treasury Rate
+5YR_UST,5-Year Treasury Rate
+10YR_UST,10-Year Treasury Rate
+30YR_UST,30-Year Treasury Rate
+CDX_HY,"Markit CDX North America High Yield Index is composed of 100 non-investment grade entities
+
+TARGET"
+CDX_HY_momentum,Price momentum of CDX_HY
+CDX_HY_10D_AVG,10D_AVG
+CDX_HY_30D_AVG,30D_AVG
+CDX_HY_5D_AVG,5D_AVG
+CDX_HY_SPREAD,"Markit CDX North America High Yield Index is composed of 100 non-investment grade entities
+
+SPREAD"
+CDX_IG,"The Markit CDX North America Investment Grade Index is composed of 125 entities
+
+TARGET"
+CDX_IG_momentum,Price momentum of CDX_IG
+CDX_IG_10D_AVG,10D_AVG
+CDX_IG_30D_AVG,30D_AVG
+CDX_IG_5D_AVG,5D_AVG
+CITI_SUPRISE,The Citi Economic Surprise Indices .
+EARN_DOWN,"Number of companies revised the outlook for their future earnings, which is lower than the previous analysts' estimates. 
+
+"
+EARN_UP,"Number of companies revised the outlook for their future earnings, which is higher than the previous analysts' estimates.  
+
+
+"
+FED_BS,The U.S. Federal Reserve Balance Sheet as a percentage of U.S. GDP 
+GOLD,Spot Gold price
+GOLD_momentum,Price momentum of Spot Gold
+LF98TRUU_Index_ SPREAD_RATE_RATIO,"The Bloomberg Barclays US Corporate Bond Index
+
+SPREAD/YIELD = SPREAD_YIELD_RATIO"
+LF98TRUU_Index_DURATION,"The Bloomberg Barclays US Corporate High Yield Bond Index 
+
+DURATION"
+LF98TRUU_Index_OAS,"The Bloomberg Barclays US Corporate High Yield Bond Index 
+
+SPREAD"
+LF98TRUU_Index_SPREAD_DUR_RATIO,"The Bloomberg Barclays US Corporate Bond Index
+
+SPREAD/DURATION = SPREAD_DUR_RATIO"
+LF98TRUU_Index_YTW,"The Bloomberg Barclays US Corporate High Yield Bond Index 
+
+YIELD"
+LF98TRUU_RATE_COMP,"The Bloomberg Barclays US Corporate High Yield Bond Index 
+
+YIELD-SPREAD = RATE_COMP"
+LUACTRUU_Index_ SPREAD_RATE_RATIO,"The Bloomberg Barclays US Corporate Bond Index
+
+SPREAD/YIELD = SPREAD_YIELD_RATIO"
+LUACTRUU_Index_DURATION,"The Bloomberg Barclays US Corporate Bond Index
+
+DURATION"
+LUACTRUU_Index_OAS,"The Bloomberg Barclays US Corporate Bond Index
+
+SPREAD"
+LUACTRUU_Index_SPREAD_DUR_RATIO,"The Bloomberg Barclays US Corporate Bond Index
+
+SPREAD/DURATION = SPREAD_DUR_RATIO"
+LUACTRUU_Index_YTW,"The Bloomberg Barclays US Corporate Bond Index
+
+YIELD"
+LUACTRUU_RATE_COMP,"The Bloomberg Barclays US Corporate Bond Index
+
+YIELD-SPREAD = RATE_COMP"
+OIL,Spot Crude Oil price 
+S&P500,S&P Close
+UNEMPLOY_NUM,Initial Unemployment Claims 
+VIX_INDEX,The VIX Index
