@@ -18,18 +18,16 @@ Joint work by members:
  
 1.      Open the Economic Data Cleaning.ipynb using Jupyter notebook
 2.      Modify the second cell of input data to be the Bloomberg extract that you wish to process. e.g. 'DATA_PULL_BB_080120_HC.xlsx'
-3.      Modify the last cell of output filename as needed
+3.      Modify the last cell of output filename as needed e.g. 'Economic_data_clean_20200801.xlsx'
 4.      Run all the cells to generate the clean output file that can be served to the program.
--      An example raw dataset (from Bloomberg) and processed dataset given in repository. 
--      Example Raw file is \[DATA_PULL_BB_080120_HC.xlsx\]
--      Example Processed file is \[Economic_data_clean_20200801.xlsx\]
+-      The example raw dataset (from Bloomberg) and processed dataset (excel) are available in this repository. 
  
 ## To run the Web Application:
  
 1.      Go to your terminal and move to the directory where the Application.py code is
 2.      In the terminal type “streamlit run Application.py”
 3.      Click on the top IP address link that is generated (should take you to the browser)
-4.      On the left, select an excel file, e.g. the \[Economic_data_clean_20200801.xlsx\]
+4.      On the left, select an excel file, e.g. the (Economic_data_clean_20200801.xlsx)
 5.      On the left, select a start and end time for data to train on
 6.      Press the “Train Model” button
  
