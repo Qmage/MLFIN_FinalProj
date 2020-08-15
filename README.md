@@ -16,13 +16,13 @@ Joint work by members:
 
 ## To preprocess newly extracted data from Bloomberg terminal:
  
-1.    Open the Economic Data Cleaning.ipynb using Jupyter notebook
-2.    Modify the second cell of input data to be the Bloomberg extract that you wish to process. e.g. 'DATA_PULL_BB_080120_HC.xlsx'
-3.    Modify the last cell of output filename as needed
-4.    Run all the cells to generate the clean output file that can be served to the program.
-- An example raw dataset (from Bloomberg) and processed dataset given in repository. 
-- Raw is DATA_PULL_BB_080120_HC.xlsx
-- Processed is Economic_data_clean_20200801.xlsx
+1.      Open the Economic Data Cleaning.ipynb using Jupyter notebook
+2.      Modify the second cell of input data to be the Bloomberg extract that you wish to process. e.g. 'DATA_PULL_BB_080120_HC.xlsx'
+3.      Modify the last cell of output filename as needed
+4.      Run all the cells to generate the clean output file that can be served to the program.
+-      An example raw dataset (from Bloomberg) and processed dataset given in repository. 
+--      Raw is DATA_PULL_BB_080120_HC.xlsx
+--      Processed is Economic_data_clean_20200801.xlsx
  
 ## To run the Web Application:
  
