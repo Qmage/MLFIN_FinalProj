@@ -21,8 +21,8 @@ Joint work by members:
 3.      Modify the last cell of output filename as needed
 4.      Run all the cells to generate the clean output file that can be served to the program.
 -      An example raw dataset (from Bloomberg) and processed dataset given in repository. 
---      Raw is DATA_PULL_BB_080120_HC.xlsx
---      Processed is Economic_data_clean_20200801.xlsx
+-      Raw is DATA_PULL_BB_080120_HC.xlsx
+-      Processed is Economic_data_clean_20200801.xlsx
  
 ## To run the Web Application:
  
