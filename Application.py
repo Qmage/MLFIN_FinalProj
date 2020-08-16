@@ -84,7 +84,7 @@ def total_prediction(csv_data, days_ahead):
         feature_cols = X.columns
         
         Y_HY = complete_data[HY_colname]
-        Y_IG = complete_data[HY_colname]
+        Y_IG = complete_data[IG_colname]
 
         # Split your data
         print("Splitting Test and Training Data...")
