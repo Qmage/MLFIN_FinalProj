@@ -12,7 +12,7 @@ Joint work by members:
 1. Downloaded the Program and Data Files contained in this repository (you can download the entire repo as zip, then extract them)
 2. have a Anaconda python distribution installed on your computer
 3. make sure the installed Pandas library is lower than v1.1.0
-4. run "pip install streamlit" to install the library streamlit
+4. run "pip install streamlit==0.64.0" to install the library streamlit
 
 ## To preprocess newly extracted data from Bloomberg terminal:
  
